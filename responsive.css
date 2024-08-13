@@ -26,4 +26,15 @@
     .Habits{
         padding: 0px 20px;
     }
+    .run-main-div{
+        flex-direction: column;
+    }
+    .common {
+        width: 100%;
+        padding: 10px 20px;
+    }
+    .run-section{
+        padding: 40px 20px;
+        
+    }
 }

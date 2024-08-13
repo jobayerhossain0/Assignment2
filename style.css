@@ -184,6 +184,46 @@ body {
 .card-one p {
   text-align: center;
 }
-.card-img{
-    text-align: center;
+.card-img {
+  text-align: center;
+}
+.run-section {
+  padding: 70px 0;
+}
+.run-titel {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+}
+.run-dec {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 20px 0;
+}
+.run-main-div {
+  background: rgb(34, 34, 34);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+}
+.run-culam {
+  flex-basis: 60%;
+  padding: 30px;
+}
+.run-culamone {
+  flex-basis: 40%;
+  padding: 30px;
+}
+.run-culamone img {
+  width: 100%;
+  border-radius: 20px;
+}
+.common {
+  background: rgb(230, 83, 60);
+  border-radius: 20px;
+  padding: 10px 50px;
+  border: none;
+  color: rgb(255, 255, 255);
 }

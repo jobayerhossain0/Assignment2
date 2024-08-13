@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+    .icon{
+        display: block;
+        
+    }
+    .menu{
+        display: none;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-col{
+        text-align: center;
+        padding: 20px 20px;
+    }
+    .banner-cardtwo{
+        bottom: 200px;
+    }
+}

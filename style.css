@@ -134,8 +134,56 @@ body {
 .fa-bars,
 .fa-solid {
   color: aliceblue;
-  
 }
-.icon{
-    display: none;
+.icon {
+  display: none;
+}
+.Change-section {
+  padding: 70px 0;
+}
+.Change-title {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+}
+.Change-dec {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin: 20px 20px;
+}
+.img-title {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.img-dec {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 20px 20px;
+}
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.card-one {
+  flex-basis: 33%;
+}
+.card-one img {
+  border-radius: 50%;
+  text-align: center;
+}
+.card-one h6 {
+  text-align: center;
+}
+.card-one p {
+  text-align: center;
+}
+.card-img{
+    text-align: center;
 }

@@ -1,40 +1,49 @@
 @media (max-width: 576px) {
-    .icon{
-        display: block;
-        
-    }
-    .menu{
-        display: none;
-    }
-    .banner{
-        flex-direction: column;
-    }
-    .banner-col{
-        text-align: center;
-        padding: 20px 20px;
-    }
-    .banner-cardtwo{
-        bottom: 200px;
-    }
-    .card-container{
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin: 20px;
-        padding: 20px;
-    }
-    .Habits{
-        padding: 0px 20px;
-    }
-    .run-main-div{
-        flex-direction: column;
-    }
-    .common {
-        width: 100%;
-        padding: 10px 20px;
-    }
-    .run-section{
-        padding: 40px 20px;
-        
-    }
+  .icon {
+    display: block;
+  }
+  .menu {
+    display: none;
+  }
+  .banner {
+    flex-direction: column;
+  }
+  .banner-col {
+    text-align: center;
+    padding: 20px 20px;
+  }
+  .banner-cardtwo {
+    bottom: 200px;
+  }
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+  }
+  .Habits {
+    padding: 0px 20px;
+  }
+  .run-main-div {
+    flex-direction: column;
+  }
+  .common {
+    width: 100%;
+    padding: 10px 20px;
+  }
+  .run-section {
+    padding: 40px 20px;
+  }
+  .BIM-table {
+    flex-direction: column;
+    padding: 20px;
+   
+  }
+  table {
+    margin: auto;
+  }
+  .common-mobail{
+    margin-left: auto;
+  }
 }

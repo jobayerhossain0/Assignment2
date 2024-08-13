@@ -227,3 +227,99 @@ body {
   border: none;
   color: rgb(255, 255, 255);
 }
+.BMI h4 {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+}
+.BMI p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  padding: 20px 0;
+}
+
+table th,
+td {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+td {
+  padding: 10px;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+th {
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 500;
+}
+.Chart {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.BIM-table {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+.BIMone {
+  flex-basis: 50%;
+}
+.BIMone h4 {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 900;
+}
+.BIMone p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 20px 0;
+}
+input {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px 0;
+  border: none;
+  display: block;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+select {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  border-radius: 8px;
+}
+.tablefx {
+  display: flex;
+  gap: 10px;
+}
+.tablebasic {
+  flex-basis: 50%;
+}
+.option {
+  margin-bottom: 40px;
+}
+.BIM-color {
+  background: rgb(34, 34, 34);
+  padding: 50px 0;
+}
+.BMI-PAD {
+  padding: 50px 0;
+}
+.common-mobail {
+  background: rgb(230, 83, 60);
+  border-radius: 20px;
+  padding: 10px 50px;
+  border: none;
+  color: rgb(255, 255, 255);
+}

@@ -46,4 +46,14 @@
   .common-mobail{
     margin-left: auto;
   }
+  .gridclass{
+    grid-template-columns: auto;
+  }
+  .blog-card{
+    flex-direction: column;
+  }
+  .footer-all{
+    flex-direction: column;
+    padding: 20px;
+  }
 }

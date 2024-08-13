@@ -323,3 +323,165 @@ select {
   border: none;
   color: rgb(255, 255, 255);
 }
+.Team-section {
+  padding: 50px 0;
+}
+.Team h4 {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+}
+.Team p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin: 50px 0;
+}
+.blog h5 {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+}
+.blog p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin: 50px 0;
+}
+.blog-card {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  background: rgb(34, 34, 34);
+  padding: 30px;
+}
+.img-boder {
+  border-radius: 20px;
+}
+.blog-all-title h5 {
+  color: aliceblue;
+  font-size: 16px;
+  padding: 20px;
+}
+.blog-all-title {
+  text-align: center;
+}
+.blog-all-title img {
+  width: 100%;
+}
+.blog-all-title p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin: 20px 0;
+}
+.gridclass {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.cardforone {
+  background-image: url(/images/trainer1.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cardfortow {
+  background-image: url(/images/trainer2.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cardforthree {
+  background-image: url(/images/trainer3.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cardforfore {
+  background-image: url(/images/trainer4.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cardforfive {
+  background-image: url(/images/trainer5.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.cardforsix {
+  background-image: url(/images/trainer6.png);
+  height: 272px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.text-tainer h5 {
+  color: aliceblue;
+  font-size: 16px;
+}
+.text-tainer p {
+  color: rgba(27, 27, 27, 0.2);
+  font-size: 16px;
+}
+.text-tainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 20px;
+  border-radius: 20px;
+}
+footer {
+  padding: 70px 0;
+}
+.footer-all {
+  display: flex;
+  gap: 20px;
+}
+.footer-bascis {
+  flex-basis: 33%;
+}
+.footer-bascis h4 {
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.footer-bascis p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+.footer-ul li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.footer-ul li a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 16px;
+  font-weight: 400;
+}
+.hr-color {
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+.reserved {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 50px;
+}

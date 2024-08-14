@@ -388,42 +388,42 @@ select {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .cardforone {
-  background-image: url(/images/trainer1.png);
+  background-image: url(./images/trainer1.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .cardfortow {
-  background-image: url(/images/trainer2.png);
+  background-image: url(./images/trainer2.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .cardforthree {
-  background-image: url(/images/trainer3.png);
+  background-image: url(./images/trainer3.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .cardforfore {
-  background-image: url(/images/trainer4.png);
+  background-image: url(./images/trainer4.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .cardforfive {
-  background-image: url(/images/trainer5.png);
+  background-image: url(./images/trainer5.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .cardforsix {
-  background-image: url(/images/trainer6.png);
+  background-image: url(./images/trainer6.png);
   height: 272px;
   background-size: cover;
   background-repeat: no-repeat;
